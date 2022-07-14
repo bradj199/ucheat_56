@@ -37,7 +37,7 @@ body > p.disclaimer {font-family: sans-serif; font-size: .5em; margin: 1em 5%; p
 
 .items .item ul .itonly {display: none;}
 .items .item ul .itonly span,
-.items .item ul .alert span { font-family: monospace; font-size: .8em; font-weight: normal; padding: .2em; background-color: #FF5314; color: #fff; }
+.items .item ul .alert span { font-family: monospace; font-size: 1em; font-weight: bold; padding: .2em; background-color: #FF5314; color: #000; }
 
 .footer ul.hideshow {text-align: center;}
 .footer ul.hideshow li:before {content:"\25cb"}
